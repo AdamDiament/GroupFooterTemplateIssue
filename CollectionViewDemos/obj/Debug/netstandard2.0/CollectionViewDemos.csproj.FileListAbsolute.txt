@@ -1,0 +1,16 @@
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\bin\Debug\netstandard2.0\CollectionViewDemos.deps.json
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\bin\Debug\netstandard2.0\CollectionViewDemos.dll
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\bin\Debug\netstandard2.0\CollectionViewDemos.pdb
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\CollectionViewDemos.csprojAssemblyReference.cache
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Controls\SpacingModifier.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Views\Grouping\VerticalListEmptyGroupsPage.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Views\Grouping\VerticalListGroupingPage.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Views\Grouping\VerticalListGroupingVariableSizeItemsPage.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Views\Grouping\VerticalListTextGroupingPage.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\CollectionViewDemos.AssemblyInfoInputs.cache
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\CollectionViewDemos.AssemblyInfo.cs
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\CollectionViewDemos.dll
+C:\Users\adam_\Downloads\Xamarin_Forms___CollectionView\CollectionViewDemos\obj\Debug\netstandard2.0\CollectionViewDemos.pdb
